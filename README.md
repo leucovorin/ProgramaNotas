@@ -17,10 +17,8 @@ El método "repetido()" recibe un conjunto de notas (números enteros) y dice si
 <img width="960" height="385" alt="imagen" src="https://github.com/user-attachments/assets/0c2e3a45-35fc-442e-a3ac-278681d7caf5" />
 <br><br>
 El método "suspenso()" recibe un conjunto de notas (números enteros) y dice si el alumno está suspenso (media menor a 5), o si está aprobado (media mayor a 5).<br><br>
-<img width="665" height="308" alt="imagen" src="https://github.com/user-attachments/assets/afa1a796-7137-4f10-9cfb-0af072498aaa" />
+<img width="665" height="308" alt="imagen" src="https://github.com/user-attachments/assets/afa1a796-7137-4f10-9cfb-0af072498aaa" /><br>
 
 
-
-<br>
 ## Autor
 Bruno Casabón

@@ -21,6 +21,6 @@ El método "suspenso()" recibe un conjunto de notas (números enteros) y dice si
 
 
 
-<br><br>
+<br>
 ## Autor
 Bruno Casabón
